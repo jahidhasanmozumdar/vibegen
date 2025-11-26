@@ -156,7 +156,7 @@ export function ContactSection() {
                   <div>
                     <div className="font-semibold mb-1">Email</div>
                     <a href="mailto:hello@vibegen.com" className="text-white/90 hover:text-white">
-                      hello@vibegen.com
+                      contactvibegen@gmail.com
                     </a>
                   </div>
                 </div>

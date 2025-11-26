@@ -71,7 +71,7 @@ export function HeroSection() {
               <div className="absolute inset-0 bg-gradient-to-br from-[#1F3A93]/20 to-[#8A2BE2]/20 rounded-full blur-3xl"></div>
               
               {/* Brain Icon Container */}
-              <div className="relative bg-white rounded-3xl p-12 shadow-2xl border border-gray-100">
+              <div className="relative  rounded-3xl p-12 ">
                 <div className="relative">
                   {/* Pulsing Rings */}
                   <div className="absolute inset-0 flex items-center justify-center">
