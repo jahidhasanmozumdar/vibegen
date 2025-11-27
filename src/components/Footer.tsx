@@ -1,5 +1,5 @@
 import { Github, Linkedin, Twitter } from "lucide-react";
-import logoImage from "../assets/7d0c98a8c41032d340d99cd691cf86f263e762d2.png";
+import logoImage from "../assets/vibegen.jpg";
 
 export function Footer() {
   const scrollToSection = (sectionId: string) => {
